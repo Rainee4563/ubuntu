@@ -1,6 +1,6 @@
 # Ubuntu
 
-[![](https://images.microbadger.com/badges/image/webhippie/ubuntu.svg)](https://microbadger.com/images/webhippie/ubuntu "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/webhippie/ubuntu:12.04.svg)](https://microbadger.com/images/webhippie/ubuntu:12.04 "Get your own image badge on microbadger.com")
 
 This is our minimal customized [Ubuntu](http://www.ubuntu.com/) base image
 based on [official Ubuntu](https://registry.hub.docker.com/_/ubuntu/).
