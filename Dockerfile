@@ -1,5 +1,5 @@
 FROM ubuntu:yakkety
-MAINTAINER Thomas Boerger <thomas@webhippie.de>
+MAINTAINER Calvin Nguyen <calvin4084@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
