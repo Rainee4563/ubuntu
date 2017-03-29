@@ -12,6 +12,7 @@ RUN apt-get update && \
     vim \
     curl \
     procps && \
+  dpkg --add-architecture i386 &&\
   apt-get clean && \
   rm -rf /var/lib/apt/lists/*
 
